@@ -2,7 +2,7 @@
 
 > _"Power is everything. But clarity is the path."_  
 
-Hi. I’m a self-taught developer, training my skills through code, discipline, and silence.  
+Hi. I'm 16 years old. I’m a self-taught developer, training my skills through code, discipline, and silence.  
 Building tools. Breaking systems. Earning my future, commit by commit.
 
 ## ⚙️ What I’m working on
