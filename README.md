@@ -24,7 +24,7 @@ Building tools. Breaking systems. Earning my future, commit by commit.
 - Never lose sight of the silence that taught me discipline
 
 ## 📁 Current Project
-[`the_beginning.js`](./the_beginning.js)  
+[`the_beginning.js`]([./the_beginning.js](https://github.com/vergilificent/vergilificent.github.io))  
 > _“This is where I start. No more fear, just code.”_
 
 ---
