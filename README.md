@@ -15,18 +15,15 @@ Building tools. Breaking systems. Earning my future, commit by commit.
 - VS Code  
 - Git & GitHub  
 - JavaScript  
-- Markdown  
+- HTML
+- CSS
+- Python (recently started)
 - Terminal (because clicking is loud)
 
 ## 📍 Goals
 - Become job-ready for a remote dev role by 17  
-- Build a portfolio site that feels like an *echo* of my myth  
 - Never lose sight of the silence that taught me discipline
 
 ## 📁 Current Project
-[`the_beginning.js`](https://github.com/vergilificent/vergilificent.github.io)
+[`snake game.py`](https://github.com/vergilificent/vergilificent.github.io)
 > _“This is where I start. No more fear, just code.”_
-
----
-
-**Everything begins here.**
